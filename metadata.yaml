@@ -1,0 +1,41 @@
+_repo: Mrs.-Wiggs-of-the-Cabbage-Patch_4377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rice, Alice Caldwell Hegan
+    aliases:
+    - Rice, Alice Hegan
+    - Hegan, Alice Caldwell
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '1471'
+    url: http://www.gutenberg.org/2009/agents/1471
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
+description: The story focuses on Mrs. Wiggs, a widow caring for five children in
+  poverty-stricken Cabbage Patch. With her husband gone and more tragedy constantly
+  occurring, she leans on Lucy Olcott, a beautiful and wealthy philanthropist with
+  troubles of her own.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Female friendship -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Women benefactors -- Fiction'
+- !lcsh 'Louisville (Ky.) -- Fiction'
+- !lcsh 'Single mothers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Poor women -- Fiction'
+- !lcsh 'Urban poor -- Fiction'
+- GITenberg
+title: Mrs. Wiggs of the Cabbage Patch
+url: http://www.gutenberg.org/ebooks/4377
