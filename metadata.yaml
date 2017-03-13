@@ -1,5 +1,8 @@
 _repo: Mrs.-Wiggs-of-the-Cabbage-Patch_4377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rice, Alice Caldwell Hegan
@@ -15,6 +18,8 @@ description: The story focuses on Mrs. Wiggs, a widow caring for five children i
   poverty-stricken Cabbage Patch. With her husband gone and more tragedy constantly
   occurring, she leans on Lucy Olcott, a beautiful and wealthy philanthropist with
   troubles of her own.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4377#Mrs.-Wiggs-of-the-Cabbage-Patch
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
